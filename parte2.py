@@ -63,4 +63,4 @@ def resultado_final(jogador_venceu, dealer_venceu, jogo):
         jogador_venceu, dealer_venceu))
     return None
 if __name__ == "__main__": main()
-    
+   
